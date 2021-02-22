@@ -14,7 +14,7 @@
         <flink.version>1.12.0</flink.version>
         <log4j.version>2.12.1</log4j.version>
         <scala.binary.version>2.11</scala.binary.version>
-        <clickhouse-jdbc.version>0.2.4</clickhouse-jdbc.version>
+        <clickhouse-jdbc.version>0.2.6</clickhouse-jdbc.version>
     </properties>
 
     <dependencies>
