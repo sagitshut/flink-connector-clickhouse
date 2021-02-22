@@ -43,5 +43,5 @@ LEFT JOIN MyUserTable FOR SYSTEM_TIME AS OF myTopic.proctime
 ON myTopic.key = MyUserTable.id;
 ```
 
-## reference
+## Reference
 [https://ci.apache.org/projects/flink/flink-docs-release-1.12/dev/table/sourceSinks.html](https://ci.apache.org/projects/flink/flink-docs-release-1.12/dev/table/sourceSinks.html)
